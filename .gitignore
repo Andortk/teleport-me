@@ -1,0 +1,6 @@
+.gradle/
+build/
+*.log
+.DS_Store
+MASTER_PROJECT_ARCHITECTURE.md
+launch-dev-client.sh
